@@ -1,0 +1,496 @@
+{
+   "checksum": "09438142d42fecf2fa9879ae9b1c06ad",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13244319123198345",
+            "guid": "92c7390c-4031-40ce-8e6c-893d5f80eeef",
+            "id": "314",
+            "name": "iPi Soft- Markerless Motion Capture",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://ipisoft.com/"
+         }, {
+            "date_added": "13244584658976031",
+            "guid": "34db149a-46cc-4cb0-ac76-af8c12ce692b",
+            "id": "315",
+            "name": "nvidia-research-mingyuliu.com/ganimal/",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://nvidia-research-mingyuliu.com/ganimal/"
+         }, {
+            "date_added": "13244584664582883",
+            "guid": "6b769944-7823-4726-95dd-c0976f5af07c",
+            "id": "316",
+            "name": "nvidia-research-mingyuliu.com/gaugan/",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://nvidia-research-mingyuliu.com/gaugan/"
+         }, {
+            "date_added": "13244584675257864",
+            "guid": "419a8056-9a72-4785-b888-6dc6ebd7503c",
+            "id": "317",
+            "name": "Live Interactive Demos | NVIDIA Research",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.nvidia.com/en-us/research/ai-playground/"
+         }, {
+            "date_added": "13244918551285697",
+            "guid": "68034b38-2fce-4304-badd-55740d245742",
+            "id": "318",
+            "name": "Podcast enelviaje.mx",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://podcast.enelviaje.mx/"
+         }, {
+            "date_added": "13245134301976492",
+            "guid": "63fb5036-297a-4ea9-96f7-7fcec27cba03",
+            "id": "319",
+            "name": "Introducción y Justificacion - Documentos de Google",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/document/d/1n-YbRMqW9s9JYKIJsmwsiVNdcOJAzSj7UdiQurmAjkg/edit"
+         }, {
+            "date_added": "13245193855628692",
+            "guid": "8c01d5c6-debe-4207-b4e7-12e8f5d199d4",
+            "id": "320",
+            "name": "Create living documents - Sign In | Xtensio",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://app.xtensio.com/account/signin?ReturnUrl=%2F"
+         }, {
+            "date_added": "13245193860375575",
+            "guid": "4cba2a7e-727b-4bb1-a9ab-8487d6d54908",
+            "id": "321",
+            "name": "ROSA",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://uxpressia.com/w/GFBXX/p/5yChV/p/kBBXo"
+         }, {
+            "date_added": "13245526054735979",
+            "guid": "b1129f7e-03ac-4519-a6a8-7a2b4e3c0c4b",
+            "id": "322",
+            "name": "Awwwards - Website Awards - Best Web Design Trends",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.awwwards.com/"
+         }, {
+            "date_added": "13245526065540085",
+            "guid": "ee65d577-d958-42a8-81d4-5eb88802da0a",
+            "id": "323",
+            "name": "Recursos para diseñar apps móviles",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.40defiebre.com/recursos-diseno-aplicaciones-moviles"
+         }, {
+            "date_added": "13246130839708799",
+            "guid": "d410ebfc-a394-4bd5-98fd-dbdf7587250e",
+            "id": "324",
+            "name": "Rueda de colores, un generador de paletas de colores | Adobe Color",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://color.adobe.com/es/create/color-wheel"
+         }, {
+            "date_added": "13246130845710554",
+            "guid": "98a43bdc-400f-4d52-84f5-d660b7380469",
+            "id": "325",
+            "name": "IBM Six UX Guidelines | Design Principles FTW",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.designprinciplesftw.com/collections/ibm-six-ux-guidelines"
+         }, {
+            "date_added": "13247254643788735",
+            "guid": "12a71103-c703-4900-b8f3-947f936ec08e",
+            "id": "326",
+            "name": "Substance Share « The Free Exchange Platform »",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://share.substance3d.com/"
+         }, {
+            "children": [ {
+               "date_added": "13090169953210059",
+               "guid": "96159473-b234-4175-bbc4-7c7e6ebe0af9",
+               "id": "328",
+               "name": "Lenovo Support",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://support.lenovo.com/"
+            }, {
+               "date_added": "13090169953194422",
+               "guid": "0179c35d-e40a-439b-b4a1-21a655783db4",
+               "id": "329",
+               "name": "Lenovo",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://www.lenovo.com/"
+            } ],
+            "date_added": "13247780185057854",
+            "date_modified": "13277222889080759",
+            "guid": "7e986153-cb28-4f40-8e78-f9435479a46c",
+            "id": "327",
+            "name": "Lenovo",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13091701790109770",
+            "guid": "49bc7392-1864-44ac-9084-63b85a5e1a79",
+            "id": "330",
+            "name": "Alimentos buenos y perjuidiciales para el hígrado graso  Alimentos buenos y perjudiciales para el hígado graso",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.innatia.com/s/c-dietas-para-el-higado/a-alimentacion-para-el-higado-graso-5485.html"
+         }, {
+            "date_added": "13090169953210059",
+            "guid": "1fa0d95b-c58e-4d9f-a23c-f901ac539747",
+            "id": "331",
+            "name": "AmazonBrowserBar",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/BIT/AmazonBrowserBar/ref=bit_lnv_fav?tag=lenovo-abb-bm-us-ie-20"
+         }, {
+            "children": [ {
+               "date_added": "13114449746228000",
+               "guid": "2ae4d0ac-f74d-47b8-8437-ea124bcf4449",
+               "id": "333",
+               "name": "1. Mi Telcel",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://mitelcel.telcel.com/"
+            }, {
+               "date_added": "13114449746233000",
+               "guid": "10a55c7f-04cc-4b63-9f69-87fb94b2e223",
+               "id": "334",
+               "name": "2. iTelcel",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://m.itelcel.com/"
+            }, {
+               "date_added": "13114449746239000",
+               "guid": "1aa64d79-7639-46b8-a0ca-96f074501a67",
+               "id": "335",
+               "name": "3. iDeportes",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://deportes.telcel.com/"
+            }, {
+               "date_added": "13114449746246000",
+               "guid": "ecd5abf7-69fa-46da-b65e-299528ec9d64",
+               "id": "336",
+               "name": "4. Plugger",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://mx.plugger.com/"
+            }, {
+               "date_added": "13114449746250000",
+               "guid": "3f666720-a787-4518-b5cd-3e5e78e26230",
+               "id": "337",
+               "name": "5. MSNGR",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://messenger.telcel.com/get"
+            }, {
+               "date_added": "13114449746254000",
+               "guid": "ad43991f-22c9-4ed0-82c8-2ed1d25c00c4",
+               "id": "338",
+               "name": "6. iPromociones",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://promo.telcel.com/"
+            }, {
+               "date_added": "13114449746262000",
+               "guid": "45cc9254-75ce-4dd4-90bf-23c1c4081cc0",
+               "id": "339",
+               "name": "Nokia support",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://link.nokia.com/entry/van/nsupport/620"
+            }, {
+               "date_added": "13114449746266000",
+               "guid": "0121e580-bc76-4afa-a784-416d534d49bb",
+               "id": "340",
+               "name": "Nokia.com",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://nokia.mobi/entry/van/main/620"
+            }, {
+               "date_added": "13090169953194422",
+               "guid": "ab8b2478-c9ed-4f12-81fe-63fe8fc5cc3c",
+               "id": "341",
+               "name": "Poketalk with Lenovo",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://www.poketalk.com/lenovo.html"
+            }, {
+               "date_added": "13249362467110333",
+               "guid": "8f9a9f92-c0d2-429f-928d-825aceb42925",
+               "id": "342",
+               "name": "Microsoft Word - 2004-2-INF412-Cap4-Redes Neuronales Artificiales.doc",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://d1wqtxts1xzle7.cloudfront.net/50358783/Redes_Neuronales_Artificiales.pdf?1479332205=&response-content-disposition=inline%3B+filename%3DRedes_Neuronales_Artificiales.pdf&Expires=1604892070&Signature=aCqFMHI7DOY1W4bTeop5HoodpiOFOwy9AdDEfXr4tiX2neEQ8J5CxPvu438-k-hgY2wMY4OeA89IxDPSkM~meLCO0-Klnf5LGH72eu6g9ny4~LR17FkFhSbVdybUlP6Ak-YbaV~hk6PagKj-WJw30Dc1rE47~g6zjBQSx9HL9Eu65Xkc9UoP7UZm4znv1HhQoyKwnL4SfCnuUnkIHEmHclcwls2bGosjSvdel9nQFdyEt4H9gyq~fxdgQ5m5amJ2g4pGS6fa2GHBNLms30VmSVuIUB0PXkr-tC8X9zShA~7S36TGJHcyYMsyNzKK-DAvS1KC93he0xxScZ7ZTM~8zA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA"
+            }, {
+               "date_added": "13249409923291931",
+               "guid": "6b82e833-89c3-449e-beb6-f048910e930d",
+               "id": "343",
+               "name": "recpat.pdf",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://ccc.inaoep.mx/~ariel/recpat.pdf"
+            }, {
+               "date_added": "13249413092904368",
+               "guid": "96393d88-9b19-479c-954d-12698b46f393",
+               "id": "344",
+               "name": "Pronóstico del tipo de cambio USD/MXN con redes neuronales de retropropagación",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.rcs.cic.ipn.mx/2017_139/Pronostico%20del%20tipo%20de%20cambio%20USD_MXN%20con%20redes%20neuronales%20de%20retropropagacion.pdf"
+            }, {
+               "date_added": "13249415338633049",
+               "guid": "8ce13b2d-abe5-45f6-b403-fac4aaaec032",
+               "id": "345",
+               "name": "715-2556-1-PB.pdf",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "file:///C:/Users/sp8jo/Downloads/715-2556-1-PB.pdf"
+            }, {
+               "date_added": "13249415344436060",
+               "guid": "5b2f0f44-89ce-4cab-8f60-7264c8605eaf",
+               "id": "346",
+               "name": "INTRODUCCION AL RECONOCIMIENTO DE PATRONES",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://www.scielo.org.bo/scielo.php?script=sci_arttext&pid=S2071-081X2009000100005"
+            }, {
+               "date_added": "13249415352246880",
+               "guid": "c1f9cc16-6a5c-48b3-af15-3c952c28a12b",
+               "id": "347",
+               "name": "Vista de Reconocimiento de patrones mediante redes neuronales artificiales",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://revistasinvestigacion.unmsm.edu.pe/index.php/sistem/article/view/3301/2750"
+            }, {
+               "date_added": "13250892787326731",
+               "guid": "dd471995-974c-4139-8e89-805716381505",
+               "id": "348",
+               "name": "Mandelbulb3D - Bing",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.bing.com/search?q=Mandelbulb3D&qs=n&form=QBRE&sp=-1&pq=mandelbulb3d&sc=5-12&sk=&cvid=EB762B376FBE409CB12DDECEB8607684"
+            }, {
+               "date_added": "13250892794571872",
+               "guid": "5ea40a05-6d32-4dfb-9c45-cce3acad7f36",
+               "id": "349",
+               "name": "Gravity: TouchDesigner Works in Zero-G | Derivative",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://derivative.ca/community-post/gravity-touchdesigner-works-zero-g"
+            }, {
+               "date_added": "13251319221122841",
+               "guid": "209b72ec-6240-44ba-9e9a-8a91929fc6fe",
+               "id": "350",
+               "name": "Shadertoy BETA",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.shadertoy.com/"
+            }, {
+               "date_added": "13251856046062957",
+               "guid": "21e700f4-5f5d-47b2-9496-531ad974250c",
+               "id": "351",
+               "name": "Audio Sin Limites",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "file:///C:/wamp64/www/landing/index.html"
+            }, {
+               "date_added": "13254430994472050",
+               "guid": "571cc794-2d88-4eea-baf7-6f5f4f5a2d89",
+               "id": "352",
+               "name": "Simple Reinforcement Learning with Tensorflow Part 0: Q-Learning with Tables and Neural Networks | by Arthur Juliani | Emergent // Future | Medium",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0"
+            } ],
+            "date_added": "13247780185059823",
+            "date_modified": "13277222889081051",
+            "guid": "bc83bd6b-baa7-47c6-811b-c62bff89bcf1",
+            "id": "332",
+            "name": "Teléfono",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13248161292529934",
+            "guid": "6421ed71-7e84-4b2e-bb36-b15b38ef97ce",
+            "id": "353",
+            "name": "Libro Aprendisaje reforsado",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://rctd.uic.cu/rctd/article/view/54"
+         }, {
+            "date_added": "13248171860474906",
+            "guid": "6ccdb5e4-d35e-42fa-b1a7-9d1a0b12778d",
+            "id": "354",
+            "name": "Control de un protocolo anticolisión para RFID con aprendizaje reforzado",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://repositorio.upct.es/bitstream/handle/10317/8096/tfg-lor-con.pdf?sequence=1&isAllowed=y"
+         }, {
+            "date_added": "13248751700508707",
+            "guid": "9fb33f66-d710-4d6e-acca-f2b2dee47a42",
+            "id": "355",
+            "name": "Inteligencia artifiicial",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://repository.unad.edu.co/bitstream/handle/10596/36240/atsalazaro.pdf?sequence=3&isAllowed=y"
+         }, {
+            "date_added": "13248751778285619",
+            "guid": "df8b0089-2fb4-4daf-bf6b-bc58cc989c56",
+            "id": "356",
+            "name": "Introducion IA",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.flasentertainment.com/blog/ia.pdf"
+         }, {
+            "date_added": "13248764120779592",
+            "guid": "3e90d978-cadc-4f2e-9be6-c39207765391",
+            "id": "357",
+            "name": "Inteligencia Artificial para Videojuegos con Deep Reinforcement Learning",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://rua.ua.es/dspace/bitstream/10045/107649/1/Inteligencia_Artificial_para_Videojuegos_con_Deep_Reinf_Molina_Garcia_Alvaro.pdf"
+         }, {
+            "date_added": "13248764213483137",
+            "guid": "fa8c98b1-de49-4a8e-a2fa-c3450991f677",
+            "id": "358",
+            "name": "Desarrollo de un videojuego con Unity: implementación de la inteligencia artificial y funciones back-end",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://riunet.upv.es/bitstream/handle/10251/151953/L%c3%b3pez%20-%20Desarrollo%20de%20un%20videojuego%20con%20Unity%3a%20implementaci%c3%b3n%20de%20la%20inteligencia%20artificial%20y%20fun....pdf?sequence=1&isAllowed=y"
+         }, {
+            "date_added": "13248765150009806",
+            "guid": "63d07891-666c-4ffd-89b4-c0683247cdb2",
+            "id": "359",
+            "name": "TFG_Daniel_Fernandez_Aldea_2019.pdf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://e-archivo.uc3m.es/bitstream/handle/10016/29658/TFG_Daniel_Fernandez_Aldea_2019.pdf?sequence=1&isAllowed=y"
+         }, {
+            "date_added": "13248765578779808",
+            "guid": "4e3fea34-a895-4aab-930a-18d994cae376",
+            "id": "360",
+            "name": "Estrategias de aprendizaje automático aplicadas a videojuegos",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://riunet.upv.es/bitstream/handle/10251/142308/Valero%20-%20Estrategias%20de%20aprendizaje%20autom%c3%a1tico%20aplicadas%20a%20videojuegos.pdf?sequence=1&isAllowed=y"
+         }, {
+            "date_added": "13248765755840612",
+            "guid": "9f0c36e3-f7c9-4252-baac-a1c7093d4f48",
+            "id": "361",
+            "name": "T08883.pdf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://red.uao.edu.co/bitstream/10614/11694/5/T08883.pdf"
+         }, {
+            "date_added": "13248766244291436",
+            "guid": "1fc850d0-d657-47d4-835e-07b1a8760185",
+            "id": "362",
+            "name": "Inteligencia artificial avanzada - Raúl Benítez, Gerard Escudero, Samir Kanaan, David Masip Rodó - Google Libros",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://books.google.com.mx/books?hl=es&lr=&id=eT7ABAAAQBAJ&oi=fnd&pg=PT4&dq=inteligencia+artificial+&ots=9x8Fh86JHo&sig=WGewMF8ioAiLbYOC74j2l4C27z0&redir_esc=y#v=onepage&q=inteligencia%20artificial&f=false"
+         }, {
+            "date_added": "13248771937444520",
+            "guid": "3d098bc5-7060-4e91-977d-e41814caf2eb",
+            "id": "363",
+            "name": "Publicaciones_ICESI_No_38_Ene-Mar_1991.pdf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://core.ac.uk/download/pdf/229158562.pdf"
+         }, {
+            "date_added": "13248774081741605",
+            "guid": "803d6596-5fa2-4f0c-8d2d-58faab22240f",
+            "id": "364",
+            "name": "La inteligencia artificial",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://fgcsic.es/lychnos/es_ES/articulos/inteligencia_artificial"
+         } ],
+         "date_added": "13277055454637547",
+         "date_modified": "13248774081741605",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13277055454637549",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Otros favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13277055454637551",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos móviles",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "Ci4KDgiIgQISCMIGcSd8AQAAEgAgASoYcXhBUWM3amIwSWpqRnNjZ2RmS2JwQT09EqwBCOwCEqYBChxndHdyRWFCbzNzVFY4VFlWS29IdlRsWVNsOW89EiRlY2JlZWMwNi1lZDdjLTRlNDgtOTZhYy0xYjM4ZjYwYmQzMTgYACAAKAAw5+CKvtguOM3Jir7YLkDNyYq+2C5KHFlQc01ydHBnQlBvSjQvVjYrZ1ZFOVc5Z0pCOD1aIiIg////+npMNFlGMVZYSFp6TG5YRysrV3BKSFVyOGZ4OD1lbNviihKsAQjqAhKmAQocQXRWbURHNWdWS0JwcnNzRXNiVndTYUM5MUlBPRIkMTBhN2NlZmItNmIyZi00ZjFlLThhYTYtNjg3Y2U3MzJiYmI3GAAgACgAMJ2yrLrYLjjDm6y62C5Aw5usutguShxCZ05HSlBuOHRrYlVub0IzV0xDR2Fmb09RbTg9WiIiIP///+l0akNHMUV1TVJTWGtnTDh2a0ZJOStBSlBOUVE9ZRAw/+QSqwEI5gISpQEKHHNDRk5rUG10ZXhJaVcvaGxVaElEd2JPUzV1cz0SJDJiMGQ2NjQ2LTM4YjctNDY2Mi04OTRjLWE3MGIwNzY0MjVhZBgAIAAoADCTt7C52C4466GwudguQOuhsLnYLkocdHo5SVBpb1VWVFVFSk5mRGl3WWFlTFFLOE5jPVohIh////5uVmV6dzYrVXNLQW9SNlZGTDVDKzdjLzdYakE9ZQAAAAASqwEI5AISpQEKHEs4TFNTdndCa1I1Z0dDa1ZzMGYyOGFyMEVGVT0SJGZkM2QwOTY0LWE5NjktNGUxYS1hNTg1LWMxZTcwOTQ4NThkZRgAIAAoADCFsrqz2C447aO5s9guQO2jubPYLkocNnNtZHc2VnBvY1VvUFFPRU1lN2xlVWN5Y2prPVohIh////toMHZGL1kvSVB4eVkrTmVXQnhzQ1VjY1F0TDQ9ZQAAAAASqwEI4wISpQEKHFVwMUxWL1lqTXIrdmNrRHpvMzh4dGE0U3h5QT0SJDJlYzBjZjUyLTI2YjMtNGE2OS1iYzNkLWExYWE1YmY0ZDQxZhgAIAAoADDunLWz2C44ncS0s9guQJ3EtLPYLkocckhwMmhaK1VveEFleU1HcVVLMkVzbmZTTXk4PVohIh////dTQmRtS1VHeWpkZzVXc25OeVZTTld3a01uZ1U9ZQAAAAASqgEI3QISpAEKHGdjRXRlZkRjdHB0Si9nQnRwaUdEZTZTNUhabz0SJGU3ZTNiZGY2LTUwNGUtNDhiNS05YWY5LThlYjVlYzc4ODRkNRgAIAAoADCW2K6w4C44zMWusOAuQMzFrrDgLkocMVl3TUZCbGVVMEpSd2JLMlBOTHMwQ0F5UGdZPVogIh7//kZDR2VnZEMybVNqdW1KNjdGVEVQdmZWS1Q5RT1lPrsHgxKrAQjiAhKlAQocSzBwVlNxbzMxc2ExcDY1NWxPNmU1M3hhcFo0PRIkOGEzOWI1MzktYzg4OC00NTdmLThiZjAtNzgwZjRlZTFjODRlGAAgACgAMOWJ9p7WLjj78/We1i5A+/P1ntYuShwxWVgwWms2Q0NMenVXaDNSL1k0ei95TkRwMHc9WiEiH///73MzSTRBVHBSQTVibjMvQmJZRG5jQ0lBZHRSTT1lAAAAABKpAQjCAhKjAQocaHVDWFhaT1k1UWJwR0xaTGFmbE5LTzRSK09nPRIkMDAzMWY1NmEtN2UwOS00NWJmLWIxMzktNjFhZTE2ODlkZWRjGAAgACgAMK7wprHMLjjQ3qaxzC5A0N6mscwuShwydVFMK3dyNjJGZEx1aFhXZGx0RGViUy9LMzA9Wh8iHf9sN2VmcWFEajVTYm80V1d5bW1IMTY4d3pia0E9ZT9iL9USqgEI3wISpAEKHFdCbDArakdIQ0tDeXlnUlFlTTN1UW54WTA4RT0SJGM4NzQ3MTgxLWNlNTEtNGU0NC1hOGZiLWE5NzczNzIwOWQ0NhgAIAAoADDt79b74y4479/W++MuQO/f1vvjLkocajVLNUpuWDd1UEJVOVdFS3ptWnpDbHovMTMwPVogIh7//3V6dmtjSk1rSW1zT3RLTUllMWlVUUJGRzUyZz1lAAAAABKqAQjbAhKkAQocWjdkc2swMElienM4NlZQTnVtSVIwYURTS1JjPRIkNTQ0NjU3YjAtODY1MC00MWRjLWE3NzMtOTM2Mzg5NjNlNjc5GAAgACgAMMbf7u/aLji3z+7v2i5At8/u79ouShxhVWdXRjZmaVVkRHM5cjJwdlBPc3Y2SStSQ0U9WiAiHv/7eWdoZFRxVlJlNXZ5TnNPeHVZRzlid1JLNUt3PWWgzb1hEqoBCNcCEqQBChxmc1BkaVZpZVV3UVI1bkd3eDgvOGV5ZS9MRUk9EiQ5MjZhOTgzMS1kZDZiLTRhM2EtYWQzZi1iNTkwNWNhNTM0NDQYACAAKAAwlLej7douONyho+3aLkDcoaPt2i5KHFZvVUlxVUVuaG95NE9lVWVYV1A2ZWhLRGRvUT1aICIe/7RFRTJDWWw5MU01aWYzN2tWMmYzc2lxeThYRkk9ZT3yp1QSqgEI2AISpAEKHFl2THhUU1hOY0F2RnFhdTIyVjNha3NBbUJMTT0SJGI5OTdiZTMxLWZiMTMtNGQ0ZS1iMzJiLTk3OTgyODE4MTA0YRgAIAAoADDM7uTu2i44qNzk7touQKjc5O7aLkocdmVJNmptaTdsaHZrQVhrQWNqQ2svZCs4QzJvPVogIh7/2mNTcFNlRlJJS2R3UTZSQ3JFbHcwVlNXMFJpdz1lK0JSGBKpAQjVAhKjAQocV2J3eFovWElWbGVNVHlDcjdiWnpyOFh0NmM0PRIkZGZkYWRhYjktYjI2NS00OGE0LWI2ZGEtNjNhY2YzMzgxZDQyGAAgACgAMLqzltXaLjjj95Pk1C5A4/eT5NQuShxXTm5wVmNOUnRHdXpqMWwySC9Ja3VhUDFiUzg9Wh8iHf54aEk0a1VMU1ByNnVlVE9mdE5nUFppV0QySEk9ZQAAAAASqgEI2QISpAEKHEEwTHJiU3dEWmo1OTFHS1FReFBmeDlwS0dFST0SJDk5MGZkYjE4LThjMjItNDViZi05NWE3LTYwMmZmZmRmNGQ3YRgAIAAoADDn9u3v2i44ieXt79ouQInl7e/aLkocSnM1MFN5TmNaZTZONjNXRHFFejV2NDUzNnJFPVogIh7/7VRPSytMNmFtckpmVHBOYkhiL2VRZktqR0kxQT1ld3BsoxKpAQjUAhKjAQocR2RldFlYMEZjSGhGQTRPcEdlcTRnRU9GSUs4PRIkMDQxNzExMTYtNDZiOC00ZjY2LWE2NGEtMWVmMWFkOGEzMDVkGAAgACgAMN2PlOTULjjl95Pk1C5A5feT5NQuShxPdWkzQ1lsTmtodVdiYWx2a21MTlJvUkZET3c9Wh8iHf1MOGNLWU5kS21SblM0bHVPTEdKckxOYXRHSTQ9ZQAAAAASqQEI0AISowEKHElmeUpzaUJMY2lQVW1KL3VLTERIWXVaNlFqdz0SJDA1MmIxMDdjLWZiN2ItNDY2ZC04MjRmLTNjYmM4OGU0NjczZRgAIAAoADDbj5Tk1C445PeT5NQuQOT3k+TULkocTkdUbGE4eFRFSlJTbnEwU05hSXNkS0FVR0RFPVofIh3ddzFrTDc0dXNIMlFrVFh2T1JEWUlIREhubXlRPWUAAAAAEqgBCM4CEqIBChxCSXpXTjdPa3B1UFdvVHlMSFVoUTNWTjVyRzg9EiQ0YTM4NjFlNy04YzA5LTQ3Y2EtODI2Mi1jNWFlY2MzOTU0MTMYACAAKAAwkY6U5NQuOOT3k+TULkDk95Pk1C5KHHl1amhrTE1YSUVsajBETEVLamRNSzl3Sm9sST1aHiIcd210dTJIUUNMR2JIQStOKzBCSVRwUnV1TjBJPWUAAAAAEqsBCMwCEqUBChxNdlZwYmErZmVHSy84b0tnMm5IN1ZyeHJUZjQ9EiQyZjkyN2YxOC1lZDE3LTRjNzgtYWE3ZC0zOTM4OTFmNzYyMDkYACAAKAAwj46U5NQuOOP3k+TULkDj95Pk1C5KHHBQQUhRQ25tR2E2WTUyR2t1azRlSTRHMGN5dz1aISIf//+8YWlZZFBmM2NzOGRheVZyZEUrMEV2NDVRL1p3PWUAAAAAEqkBCM8CEqMBChxnSzEreEdNWG1kekNyL3Q2eVJKYTBDeko2djQ9EiQyMjlkODkwZS04ZTljLTRjY2MtYTU1NC0xYTE0ZGI1MDM3YzcYACAAKAAwko6U5NQuOOT3k+TULkDk95Pk1C5KHFlYYXNoZ3FwOXh6TW5kbjZ3T3JZek9uWDBFTT1aHyIdu1JhQXJ0UVdyclMrWlliZ1FINzArU3J3VHpTVT1lAAAAABKrAQjnAhKlAQocWG5FRm1MMXlkQWhMTEJLcGw0T2lOWG9FMHk4PRIkNTBjOTIwODktMDYxOS00ZWIwLTg4MzgtMDI5NTBmZGE3NWViGAAgACgAMPbM6bnYLji5tum52C5AubbpudguShxKMWNaOGo4amF3VnB6MGpMTFk1Y0pHQ3dCQ289WiEiH////0xPcVo5MkZJZkJsRnNma2NMdzZEa3NJNXllND1lAAAAABKoAQjIAhKiAQocMWlERkthVlFvdnRzVEdJbjNsTjJtSFQ4YkFjPRIkOTMxMzlmMGMtMzMzMS00OWQ2LThiNzQtYjkxZmFjNjJjMmQ2GAAgACgAMPOMlOTULjji95Pk1C5A4veT5NQuShxVV3BEOHZvbUwzeXlGUnhFbEtVN3lDbWxYZXM9Wh4iHDB6bnJsRHJFa0dpR0g3dXorenFHQlFoR3drbz1lAAAAABKqAQjHAhKkAQocZzc3ZWx2NS9SaCtYaFFFY1ZKMFhZM0QrSktRPRIkMTFlNDNkZWQtN2JjZS00NWI2LWE1ZWItMzMyZDAzOTM3NzQxGAAgACgAMPKMlOTULjjh95Pk1C5A4feT5NQuShxWZCt3MXoweUpBaEk1aVp4Rk9UbHlBTDZkNGM9WiAiHv/7bHlTZXYvNTRiaDZhWEwxQ3lmdWlHeXVqcWtnPWUAAAAAEqoBCMYCEqQBChxGajRRemRQZzViOHFiNWc4M2hFaCtiSVRIVGc9EiQwYTRlNDIxNC0xNjM0LTRlNmItYjVjYy1jMDI4ZjA3ZDM0NGUYACAAKAAwy87H6dIuOMy4x+nSLkDMuMfp0i5KHEZ4QWJXZzJyYklhb3RGYWVXcTRlYVhJWFVFMD1aICIe//ZuckswZXR1R0I0SjF1S3FxMTRUSmtIWEx0bVU9ZQUic1gSqwEI5QISpQEKHDkxSVRzYmxaS0xYTWNmM1Iya3U4NmtCQXBDZz0SJGE5MTRhOGRiLWI1YWQtNGY5MS1hYjc1LTA1N2Q3MDliMmQyORgAIAAoADCZ5Kq52C44y82qudguQMvNqrnYLkocYm4vVm5nMC9Ca0pGV3VxaFlaN2J5WFc1Um0wPVohIh////13d0hiRDhHZVVpYmswWEkvOVR4OTIzeGN5U0U9ZetsRa0SqgEIywISpAEKHGtHam9hVzZIUDdKWWlESFZzZW9MalFockFoOD0SJDc1ZjA2NTAxLTBjYjktNDUyYS05MjUyLTQzMzg2YjllNWI5YxgAIAAoADDxjJTk1C444/eT5NQuQOP3k+TULkocWnVSSXkvZU5VQmZMM1RaTjVsV29sRDllZWEwPVogIh7//nNLbTBzOWtUZmswNjlXdHU1ZzVHVDdqcCtuZz1lAAAAABKqAQjDAhKkAQocaEtXd1RtM3MvdzVLNmlhS1JsU09JVzhaaDV3PRIkZTVhOGJhMTgtNjBhOC00MDE0LWFmMTMtNDIwYzk5MTU5ZTIwGAAgACgAMJy/p7HMLjiEs6exzC5AhLOnscwuShxnRXRuYVF5eHpERXBucGN6VnpBYk40YnZOVGc9WiAiHv+2TzZjVXJZenVFanRhWHFWSmtXbkNjN0xXU01BPWWuwRigEqgBCMkCEqIBChw3OGNoc2RzTFp5bmdFdFk1NkQ2VXI1K25lYk09EiRmNDJkYjMyZi0yYTJjLTRjYWQtYTVhMy0yZjA3ODczNzg2ZDYYACAAKAAw9IyU5NQuOOL3k+TULkDi95Pk1C5KHCtUbVZlQW92K2p4b1FBV3dNa2ZwcDd0YWpDMD1aHiIcekdhTUdLNXF4OWhQWlI2cXNIYXJLdXhBRTE0PWUAAAAAEqoBCN4CEqQBChx1VTVuNnM1VEVhUGtoQWovUnFLVWJjclJ5Qm89EiRmMzAyZDY4YS1jYzRhLTQxZTItOWRkOS1iMTU1MTExNzhiODkYACAAKAAw6NrZ++EuOIPH2fvhLkCDx9n74S5KHFZ0NDNuRmhqaXB0dDdOaXFSbzd0bHlUL0RjMD1aICIe//9qMkFFdzlqUjdqZVdxVnZwUm1NYmM3Y2dkNms9ZW3SuTkSqgEIxQISpAEKHHl5TlloYnEyZ3pRdjdJK2g5bFlMRlVuQThIWT0SJDY1MTU5YWQ3LWI2OWQtNDY2MS1hMmQ4LTBlODI2YzRiNTExORgAIAAoADDFttjRzi44jqDY0c4uQI6g2NHOLkocRGxTcnNsbFBHMVArT0o5R3hkb056TGJ5RzBjPVogIh7/7Xd6ZHZ0aS9STXlSaFpueU92VEJMajNOR1dqND1l1gkHNxKpAQjBAhKjAQocSFVBaCtUcWFoTEt6blNPYm00RHNCMjhXdVZBPRIkMjZhNzgwM2ItMmQ3OC00ODg2LThjNGEtZjZjZjJmYmVjM2Q2GAAgACgAMIat85LLLjiYmvOSyy5AmJrzkssuShxpa1VkT2V1UGZhZHRDYWhPRHJUNnVuQnMwbzA9Wh8iHf4xZ3JQQzEvZU94THExUzdpT0VMZ3Z6VGhMc0k9ZVJWJ3YSrAEI6QISpgEKHElTYzdHbVRibzFnSTYrNC9BOWZrMjN3UzB5MD0SJGI4YjQwZGMzLTNkNzctNDM0NS04ZTBmLTc5MjIzZTEyNTAxZBgAIAAoADDXyY662C44wLOOutguQMCzjrrYLkocRUZVdFJpTVUvcGEzc0U0WVAveERnS1NBUkVVPVoiIiD////TL0Jhb21YbXJFcFVQYzdhT1hSQ2wvRm9DVVRZPWWo/OieEqwBCOgCEqYBChxHT25oS1FobGsvMnBETnZBakpyRWp6ajNOVnM9EiRjNjA0Mjg4MS0xODg5LTRjMWQtOTA5ZS1kNTY4ZjM1Y2RjZTYYACAAKAAwlOKDutguOJzMg7rYLkCczIO62C5KHFVTUTgvbms5bGFBcjFFaXE3Qys4aEFGQzNLZz1aIiIg////pjdlNVVaWXZFNDdRc0YrWmcvalc0KytsRHl2VT1lAAAAABKpAQjRAhKjAQocMVQzMCs2OFlRbEltcy96TDNEVWZ0bVRFdEhvPRIkNDk4NmY4ZTUtODM5NS00MTE1LThhOGUtMTRkMmM4Y2VhMDE5GAAgACgAMNyPlOTULjjk95Pk1C5A5PeT5NQuShw2Ui9WZ3dmOG1leEFoTm5NWjJwL1ozTHVRbUk9Wh8iHe5VUjBhaGtmNGlZdjY1OEJuUU1VcXIwVWVOdlE9ZQAAAAASqAEIzQISogEKHGRzQlRHeTYvUU50ZzVicW93U1NiS3JWZnNhbz0SJDQ3YWI4NWVkLTE5NTUtNDk5Yi1iOTliLTRiMzk1N2MyMzczMRgAIAAoADCQjpTk1C444/eT5NQuQOP3k+TULkocczl6ZkNwWXRqTWxrK0F3SnM4WkVzcWdaS0NnPVoeIhxaZWZaL05JS3F0Um03aXplZjAvZnpTMkVDdlk9ZQAAAAASqQEIvQISowEKHGMvWFR4QXlaM1UyZE96QlJKcERDQ0MvQ0w1Zz0SJDUxZWVkZTU3LWQyODUtNDhjZC1hMTg1LTc2ZGVmYzM1Yjc1ZBgAIAIoAjDCjcS7wi84ur+18MguQMr/w7vCL0ocN1pha2lCZUR2d2U3VWR0dTM2S2h1Qm5aa2NJPVofIh3qSTRqcFFxMWZickkrRUhDK1pkMUt1TStJUWlNPWXe2VYhEqkBCNICEqMBChxtSEZHZlFpZSs4aFlCSTlhNzdxVUgzOEJTRlk9EiQ5MzAwZmM2Yi1iMGNkLTRhOWYtYWRjNS0zNzU2ZjMyNjU5ODYYACAAKAAw2o+U5NQuOOX3k+TULkDl95Pk1C5KHEdPZE1uNm1MMEppaHA4UHIyZCtqU212TnJwST1aHyId91hpQytQbkMreEJ6eVkvUVpXeFJjdUgvUTZXMD1lAAAAABKpAQi7AhKjAQocdmtZRGhyZ3FBQ2VmSXhudDJJT3k2bDR2aXo0PRIkNzM5Y2E3MDEtNGZjNS00NzdhLTgwNGMtZjc4MDRlMjhlMmFlGAAgACgAMKvRtPDILjigwLTwyC5AoMC08MguShxmY1NLcUNjZC9PVTJZaFpOWXhiekVacVFNaTQ9Wh8iHapKVzRRYnl4bllGME1vTC9YV2NNdE5ZSWxPN2M9ZQAAAAASqQEIvgISowEKHElpOWlTZmM5Ync1eitnNzlWOXBwaUNQc2o5TT0SJGNlNjgyMzRiLTg4ZDUtNDcxOS1iMjg5LTdiYWI3NzM4OWY0NBgAIAIoAjDCjcS7wi849tXPj8ouQMr/w7vCL0ocVU40VDlGejhuTUIzSWVSeFJmQndyVzR6VlkwPVofIh31N0ovUjU4R3FYYXA3bGttT0V0Rk8xWDY3NnpBPWX05jJBEqsBCOECEqUBChxXbmdmbFpuMExxNzJqLzRBajVHVE42YXBuWGs9EiQ0OWJlNWI5OC0yZjRhLTQ1ZGUtYjViZS0wMWZkN2ZhZTkzY2EYACAAKAAw9PvxmdYuOPLx8JnWLkDy8fCZ1i5KHC9zT1p1MW5MMUNTM0lQWlc4eXVDdG1nOWNYUT1aISIf///eb1FxRGhRSXEvdHNjRjMzTzYvY0VwMzQrSUVvPWWgzb1hEqoBCMQCEqQBChxJOXZGK1dXVi81dEpLMWhLQVBUVkNCSVlUaWc9EiQ5YjAyOGQ5MC0wN2YwLTRlZGMtOWUwNC1lMWEwYmVjMjM3ZGYYACAAKAAw5JzY0c4uOJzx19HOLkCc8dfRzi5KHFlsTSs3aEVjQlJ0L3hHVk1SY2ZXd2kwZENzOD1aICIe/9tDbWVzVjF1QVp6YTlyS05MN3BPS3VzMkI1Y3M9Zbvd9DMSqgEI3AISpAEKHEcwbWM4V0J6bjhpUW9DTC9mMGFOOUlRLzYvaz0SJGM1M2Y5YjAzLWY2MzctNGU3Zi04ZmYyLTAwNGYxNmRlOTI2NRgAIAAoADCSpa6w4C44/oyusOAuQP6MrrDgLkocRXBNbDNYbE5ZL0JFSStzQ1BLb1VQN29pUWtrPVogIh7//Uw4cmFvaFhZY2FaZHV0WmU3amttQ2dRS3djWT1lex49phKpAQjAAhKjAQoca1hBVDFHTHZXZE9vSTgybzVwVnJqVCt4dlhRPRIkZjlmMTJhNmItNTI0Ni00OGI1LTk4YmUtZjc1YjQ4ZjZhNzQxGAAgAigCMMKNxLvCLziN9fKSyy5Ay//Du8IvShwya1dpZjcrNC9XSXY3Ym1YbmY3UW1tYi8yUUk9Wh8iHf1ObHZWQ3NnakR5MWVFanBLTTFsQXh0TG4zaHc9ZeXB4ygSqAEIugISogEKHExXWC94YStqMXBHT016RmZMemMxTm96UzhFST0SJGQxOTgzYzE0LTE0MTUtNGJiYi1hZTBjLTgwMTAwMDA5NTMyNRgAIAIoAjDCjcS7wi84/r3l8ccuQMr/w7vCL0ocUmhWMk42Yi9Mc05TVFJSZkowWUxxL3IxMnJrPVoeIhxUWTVYNDFuWWZGUjZLbmY4R0tOdU5VaXJEQmc9ZQqc08ESqQEIvAISowEKHHJQVFFLdjMyMWM1Q0t6Y2VFcTM5SlRkWWZBUT0SJDEwNDY2OWJhLTk4YTEtNDMyMi1iYzdmLTRkYjA1NWFkZWVlYRgAIAAoADDJ+7TwyC44h+y08MguQIfstPDILkocZ1B6cW1LcnNDcmtxem9sQ2hRUmlZY1VIOXFnPVofIh3VVDFTQTdONjRhVm1GUkczWm9sSlVveFRjSWY0PWUAAAAAEqoBCMoCEqQBChxmcVRINUJHMjdZR3Z4TXBqMlBoTThYQ1k5NjQ9EiQ2OTc2NTRiOC1kNzA5LTQxYjctOGNhNS1lMWE2YmE3M2FjNGIYACAAKAAwjo6U5NQuOOL3k+TULkDi95Pk1C5KHEp3bjhDZUl5cVducGh0WUNxemNyYmdMMzhCQT1aICIe//1WRWtSMjhLTHRvY244cTFKdWVtU3crVTd6WVU9ZQAAAAASqQEIvwISowEKHFdqRXRHYldDWDV4cUhWWEI1bmZYMHpCVGQrTT0SJDE0YmIwNjk4LTMxMDMtNDIzMi1hOTIwLWFjNDBkNjg1NjMxYhgAIAIoAjDCjcS7wi84mYbA9souQMv/w7vCL0ocY0JpOVpUZVpXVkU3V2ZTemd4QTAxdzl2QldFPVofIh36ODlCNTlHVnY5T3FuVmkyZFozR0h1bVdFalNBPWXVR000EokBCAIShAEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJDcwMjkzOTY3LTliOGYtNWViNi1hMDRlLTNiNjA0NzY3NzE1NhgAIAAoADDkkoS2jS44hJKEto0uQISShLaNLkocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASrAEI6wISpgEKHE9JNXo0TVVSSU1uejZFdWxGa3VLaW1HZWNqbz0SJDYxMTZkZmY2LTU3YjEtNDkxMC04ZjM2LTE4MDdlYmYxMTI1NhgAIAAoADD3hIi92C44pNmHvdguQKTZh73YLkocR1dkMGkranArWDcvaGF0bXJ6cWhPSjNmUk5nPVoiIiD////0dlExUkFmVTNqYUVlNUxRK3FwUk1PeFpMMXU4PWUAAAAAEqoBCNoCEqQBChxyT0N2akpQVHVrNDZvV1Vudk5DRjRRVE1MNjg9EiQxNmU5ZTI0YS05YjQ4LTQxNjItYWRjZC1mOTRlMGMwZjkzNzgYACAAKAAw0KLu79ouOLSS7u/aLkC0ku7v2i5KHHhBQmU1OVErNE14aEx5RW9WSVRLRENhWGtvVT1aICIe//YrQzFLL3pETm8wZ3NwNzNxbDkyNGdDOW4raW89Za30cN0SqQEI1gISowEKHHhGMGhkOFpucHFYMFlpeFVRbDdBLzNwVVpKST0SJDU1YjUxMzJhLWFkMzAtNGJkMS05OTg0LTI0NTFmODZiMzgxNhgAIAAoADCJ9dLW2i44puLS1touQKbi0tbaLkocK3JvNHFzNlFsQ1lWcWM1NDQrQ1NUNlhyUDhjPVofIh3/aFVRZGYyaURQRUtNSkVob212aHJvc0taTGE4PWUAAAAAEokBCAEShAEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDM0NzZmZDhjLWI1ZjItNWEyMC1hYjQ1LTlhZGM0YTYyMDhiNxgAIAAoADDjkoS2jS44hJKEto0uQISShLaNLkocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASqwEI4AISpQEKHERGdlcxVERzb3BnemF0TWhQRGNOMTVGK3FIYz0SJDZjNTEzZjcwLTA3YWYtNDliZC04OTg0LWFkZWJiMzkyYjNlZhgAIAAoADCVsMHH7S44qJDBx+0uQKiQwcftLkocbmRqMFFqMlUvTkJMM0c5R2FMQ3VMcG1sQUJ3PVohIh///7pOU3JqMWNWR2ZIS05qOXJRd24vQnhDVVE4Wnc9ZVuFQ2MSqQEI0wISowEKHFB4M2srR3pHOWpLZlIzV2wvWWIyUHFxblVxRT0SJDVlNjI2ZjljLWMwNzUtNDkwNC05NzNkLWQ3NTdjNTViOTNkZhgAIAAoADDZj5Tk1C445feT5NQuQOX3k+TULkocSitiYVE0bjJUQ056d0pBWVRIRm5WOVNPbU9RPVofIh37YkQ0d01nVmU1RVYzbmZuMW9RVTZPSGYwQW1nPWUAAAAAEokBCAMShAEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDllYzYyY2I5LWM5MDctNWQ5Yi1iZjFkLWZiODZlZjY4ZWRjYhgAIAAoADDokoS2jS44hJKEto0uQISShLaNLkoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAgkZbEu8IvMAA=",
+   "version": 1
+}
